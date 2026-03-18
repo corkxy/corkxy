@@ -1,5 +1,5 @@
 # 💫 About Me:
-BS-IT Student | Angular Developer | Data Analyst<br>I build sleek web applications and find the stories hidden in data. Currently exploring the synergy between modern web frameworks and analytical insights to create the next generation of smart app<br><br>fel freee to collaborate and reach out<br>
+BS-IT Student | Angular Developer | Data Analyst<br>I build sleek web applications and find the stories hidden in data. Currently exploring the synergy between modern web frameworks and analytical insights to create the next generation of smart app<br><br>feel  freee to collaborate and reach out<br>
 
 
 ## 🌐 Socials:
